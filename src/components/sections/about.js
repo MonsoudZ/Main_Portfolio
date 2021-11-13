@@ -136,10 +136,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Monsoud and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Monsoud and I like to problem solve. My
+              interest in becoming a software engineer started when I was putting together statistics and databases for my soccer teams. I thought it would be a cool idea to host that information on a site along with video of the games. I went down the rabbit hole and that is how I got here.
             </p>
 
             <p>
@@ -154,12 +152,13 @@ const About = () => {
             </p>
 
             <p>
-              I also recently{' '}
+              I also recently asked to develop a site to host liv
+
+              stream for {' '}
               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+                GlewMe City.
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              THE FIRST PHOTOREALISTIC VIRTUAL WORLD EVER On ETHEREUM.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
