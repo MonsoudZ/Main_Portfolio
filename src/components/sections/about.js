@@ -140,19 +140,9 @@ const About = () => {
               interest in becoming a software engineer started when I was putting together statistics and databases for my soccer teams. I thought it would be a cool idea to host that information on a site along with video of the games. I went down the rabbit hole and that is how I got here.
             </p>
 
-            <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
 
             <p>
-              I also recently asked to develop a site to host liv
+              I also recently asked to develop a site to host live
 
               stream for {' '}
               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
