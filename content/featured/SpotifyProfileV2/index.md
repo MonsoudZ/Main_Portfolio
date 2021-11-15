@@ -2,12 +2,12 @@
 date: '3'
 title: 'Blog-App'
 cover: ''
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://github.com/MonsoudZ/My_first_gatsby_site-Blog-'
+cta: 'https://myfirstgatsbysiteblogmain.gatsbyjs.io/'
 tech:
   -
   - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Material-UI
+  - Ruby
+  - JavaScript
 ---
