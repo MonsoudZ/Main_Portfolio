@@ -136,19 +136,16 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Monsoud and I like to problem solve. My
-              interest in becoming a software engineer started when I was putting together statistics and databases for my soccer teams. I thought it would be a cool idea to host that information on a site along with video of the games. I went down the rabbit hole and that is how I got here.
+              Hello! My name is Monsoud and I like to problem solve. My interest in becoming a
+              software engineer started when I was putting together statistics and databases for my
+              soccer teams. I thought it would be a cool idea to host that information on a site
+              along with video of the games. I went down the rabbit hole and that is how I got here.
             </p>
 
-
             <p>
-              I also recently asked to develop a site to host live
-
-              stream for {' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                GlewMe City.
-              </a>{' '}
-              THE FIRST PHOTOREALISTIC VIRTUAL WORLD EVER On ETHEREUM.
+              I also recently asked to develop a site to host live stream for{' '}
+              <a href="https://github.com/MonsoudZ/Chazzytv">GlewMe City.</a> THE FIRST
+              PHOTOREALISTIC VIRTUAL WORLD EVER On ETHEREUM.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
