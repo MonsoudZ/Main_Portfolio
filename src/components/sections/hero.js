@@ -65,21 +65,21 @@ const Hero = () => {
     <>
       <p>
         I’m a full stack software engineer specializing in building and designing exceptional
-        digital experiences. 
+        digital experiences.
       </p>
     </>
   );
-  const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my resume!
-    </a>
-  );
+  // const five = (
+  //   // <a
+  //   //   className="email-link"
+  //   //   href="../../../static/resume.pdf"
+  //   //   target="_blank"
+  //   //   rel="noreferrer">
+  //   //   Check out my resume!
+  //   // </a>
+  // );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>
